@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zbossz
-- 👀 I’m interested in java c c++ python
-- 🌱 I’m currently learning java c++ 
+- 👀 I’m interested in java c c++ python ai
+- 🌱 I’m currently learning java c++  python ai
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://blog.csdn.net/weixin_54130714 
 
